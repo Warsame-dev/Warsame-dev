@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<img width="1536" height="318" alt="image" src="https://github.com/user-attachments/assets/ecf484db-e7e7-4f81-b1d5-a477de13e836" />
+<img width="1536" height="318" alt="image" src="https://github.com/user-attachments/assets/bb623c8b-e92f-48a2-9d89-05658ebe5d23" />
 
 
 
-<h3 align="center">🚀 Platform Engineer | TBuilding scalable platforms • Kubernetes • CI/CD • Cloud Automation</h3>
+
+<h3 align="center">🚀 Platform Engineer | cloud </h3>
 
 <p align="center">
   Building scalable platforms • Kubernetes • CI/CD • Cloud Automation
